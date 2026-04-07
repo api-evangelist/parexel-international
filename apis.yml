@@ -1,7 +1,12 @@
 aid: parexel-international
-url: https://raw.githubusercontent.com/api-evangelist/parexel-international/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/parexel-international/refs/heads/main/apis.yml
 modified: '2026-03-24'
 apis: []
 common:
   - type: Website
     url: https://www.parexel-international.com
+description: >-
+  Parexel International is one of the largest global biopharmaceutical services companies
+  in the world, providing services that help clients accelerate the discovery and
+  development of new therapies.
