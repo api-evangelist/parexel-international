@@ -9,6 +9,10 @@ tags:
 modified: '2026-04-28'
 apis: []
 common:
+  - type: GitHubOrganization
+    url: https://github.com/PAREXEL
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/parexel
   - type: Website
     url: https://www.parexel.com
   - type: Careers
