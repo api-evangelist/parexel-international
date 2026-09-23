@@ -1,7 +1,9 @@
 ---
 title: Parexel Unveils New Industry Report
 url: https://newsroom.parexel.com/news-releases/news-release-details/parexel-unveils-new-industry-report-global-survey-more-500/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Parexel International" press release artificial intelligence'
 position: 4
 source: serpapi-google

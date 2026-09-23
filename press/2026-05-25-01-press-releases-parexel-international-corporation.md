@@ -1,7 +1,9 @@
 ---
 title: Press Releases | Parexel International Corporation
 url: https://newsroom.parexel.com/press-releases
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Parexel International" press release artificial intelligence'
 position: 1
 source: serpapi-google

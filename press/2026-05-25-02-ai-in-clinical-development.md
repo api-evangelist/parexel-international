@@ -1,7 +1,9 @@
 ---
 title: AI in Clinical Development
 url: https://www.parexel.com/solutions/parexelai/ai-in-clinical-development
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Parexel International" press release artificial intelligence'
 position: 2
 source: serpapi-google

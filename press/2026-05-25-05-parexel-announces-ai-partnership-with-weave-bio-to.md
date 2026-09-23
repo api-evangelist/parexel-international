@@ -1,7 +1,9 @@
 ---
 title: Parexel Announces AI Partnership with Weave Bio to ...
 url: https://newsroom.parexel.com/news-releases/news-release-details/parexel-announces-ai-partnership-weave-bio-accelerate-regulatory
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Parexel International" press release artificial intelligence'
 position: 5
 source: serpapi-google
